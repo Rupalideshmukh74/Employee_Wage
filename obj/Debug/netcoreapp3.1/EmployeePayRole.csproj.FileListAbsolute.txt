@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.exe
+C:\Users\admin\source\repos\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.deps.json
+C:\Users\admin\source\repos\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.runtimeconfig.json
+C:\Users\admin\source\repos\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.runtimeconfig.dev.json
+C:\Users\admin\source\repos\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.dll
+C:\Users\admin\source\repos\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.pdb
+C:\Users\admin\source\repos\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.AssemblyInfo.cs
+C:\Users\admin\source\repos\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.dll
+C:\Users\admin\source\repos\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.pdb
+C:\Users\admin\source\repos\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.genruntimeconfig.cache
