@@ -10,7 +10,7 @@ namespace EmployeePayRole
         /// <param name="args">The arguments.</param>
         static void Main(string[] args)
         {
-            // Console.WriteLine("Welcome to employee wage problem ");
+           
             int PER_HOUR_WAGE = 1000;
             int HOURS_WORK = 8;
             int DAILY_WAGE = 0;
